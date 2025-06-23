@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625170924318",
+    "project_id": "darbonna-9a087",
+    "storage_bucket": "darbonna-9a087.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625170924318:android:6e39b1c15a5d7c9da7ff0f",
+        "android_client_info": {
+          "package_name": "com.Bayan.FadyMonier.DriverDarbonna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzo_Nh20mTJaflAx9FDkxADPYkXXJVXKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625170924318:android:af3529a0355dacd2a7ff0f",
+        "android_client_info": {
+          "package_name": "com.FadyMonier.Darbonna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzo_Nh20mTJaflAx9FDkxADPYkXXJVXKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
