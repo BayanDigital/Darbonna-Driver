@@ -3,7 +3,7 @@ import 'package:ride_sharing_user_app/util/images.dart';
 
 class AppConstants {
   static const String appName = 'Darbonna Driver';
-  static const String baseUrl = 'https://darbounna.najmasms.com';
+  static const String baseUrl = 'https://darbonna.yoofiy.com';
   static const String polylineMapKey =
       'AIzaSyCrNLb2QXgXtOGI59rlsOS0J_TCIFfEIm4';
   static const double appVersion = 1.0;

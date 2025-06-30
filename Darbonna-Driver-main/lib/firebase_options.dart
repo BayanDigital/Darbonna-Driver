@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDzo_Nh20mTJaflAx9FDkxADPYkXXJVXKQ',
-    appId: '1:625170924318:android:6e39b1c15a5d7c9da7ff0f',
+    appId: '1:625170924318:android:065bc89cde10559aa7ff0f',
     messagingSenderId: '625170924318',
     projectId: 'darbonna-9a087',
     storageBucket: 'darbonna-9a087.firebasestorage.app',

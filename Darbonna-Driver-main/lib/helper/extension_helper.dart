@@ -9,7 +9,7 @@ extension ContextInfo on BuildContext {
   ThemeData get theme => Theme.of(this);
   TextTheme get textTheme => theme.textTheme;
   ColorScheme get colorScheme => theme.colorScheme;
-  CustomThemeColors get customThemeColors => theme.extension<CustomThemeColors>()!;
+  CustomThemeColors get customThemeColors => theme.extension<CustomThemeColors>()??CustomThemeColors.light();
 
 
   //scaffold context
